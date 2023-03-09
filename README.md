@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/236x/9f/ba/7c/9fba7c694da024355085a504a2ce7214.jpg" align="center" style="width: 20%" />
+<img src="https://media.tenor.com/zMdZBjJ7gPkAAAAd/aesthetic-wallpaper.gif" align="center" style="width: 40%" />
 </div>  
   
 
