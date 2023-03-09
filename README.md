@@ -8,7 +8,6 @@
   
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Técnico.  
-- 
 
 <br/>  
 
