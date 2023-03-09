@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/94/6e/ff/946eff7741c6af1436dfe4975d31d95c.jpg" align="center" style="width: 100%" />
 </div>  
   
 
