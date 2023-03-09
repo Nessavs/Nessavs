@@ -7,8 +7,6 @@
         “A persistência é o menor caminho do êxito.” – Charles Chaplin. 🚀 
   
 
-- 🔭 Atualmente estou trabalhando como Analista de Suporte Técnico.  
-
 <br/>  
 
 
