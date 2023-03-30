@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Sou Vanessa, sou uma Técnica de Informática e estudante de Sistemas de Informação 👨‍💻 </div> 
+### <div align="center">Sou Vanessa, uma Técnica de Informática e estudante de Sistemas de Informação 👨‍💻 </div> 
         “A persistência é o menor caminho do êxito.” – Charles Chaplin. 🚀 
   
 
