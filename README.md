@@ -9,6 +9,11 @@
 
 <br/>  
 
+👩‍💻 - Estagiária de Desenvolvimento na Amo Sistemas 
+  
+💻 -  No momento estou aprendendo C e Python na minha graduação  
+  
+🌸 - Curiosidade: Aprendi a criar jogos digitais usando a linguagem C# na plataforma Unity, onde despertou minha criatividade  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
