@@ -9,9 +9,9 @@
 
 <br/>  
 
-👩‍💻 - Estagiária de Desenvolvimento na Amo Sistemas 
+👩‍💻 - Estagiária de Desenvolvimento Back-end na Amo Sistemas 
   
-💻 - No momento estou aprendendo C e Node.js 
+💻 - No momento estou aprendendo C e JavaScript 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
