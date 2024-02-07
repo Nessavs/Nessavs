@@ -9,9 +9,9 @@
 
 <br/>  
 
-👩‍💻 - Estagiária de Desenvolvimento Back-end na Amo Sistemas 
+👩‍💻 - Desenvolvedora Back-end na Amo Sistemas (Amo ofertas)
   
-💻 - No momento estou aprendendo C, JavaScript, CSS, HTML e o Framework React.
+💻 - No momento estou aprendendo JavaScript com Node, mexendo com a AWS e banco de dados MongoDB.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
