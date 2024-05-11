@@ -3,55 +3,47 @@
 </div>  
   
 
-### <div align="center">Sou Vanessa, uma Tecnóloga em Programação e graduanda de Sistemas de Informação 👨‍💻 </div> 
+### <div align="center"><h1>Vanessa da Silva</h1></div> 
         “A persistência é o menor caminho do êxito.” – Charles Chaplin. 🚀 
   
 
 <br/>  
 
-👩‍💻 - Desenvolvedora Back-end na Amo Sistemas (Amo ofertas)
-  
-💻 - No momento estou aprendendo JavaScript com Node, mexendo com a AWS e banco de dados MongoDB.
+👩‍💻 - Desenvolvedora Back-end Junior na Amo Sistemas (Amo ofertas, aplicativo de delivery e entrega)  
+🎓 - Técnica em Informática pelo Instituto Federal de Santa Catarina (IFSC)  
+📚 - Cursando a graduação de Sistemas de Informação  
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<div align="center">
+  <h2>Minhas tecnologias</h2>
 
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-###    
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
 </div>
 
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://www.linkedin.com/in/vanessadasilva25/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <h2>Conecte-se comigo</h2>
+  <a href="https://www.linkedin.com/in/vanessadasilva25/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
+  <a href="https://www.instagram.com/ne.ssas" target="_blank">
+    <img src=https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a> 
 </div>  
-  
+</br>
 
-<br/>  
-
-
-<!-- ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nessavs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
-
-<br/>  
-<br/>  
-
-<div align="center"></div>
-<br />
+<div align="center">
+  <a href="https://streak-stats.demolab.com/?user=Nessavs&theme=dracula&background=000&border=30A3DC&dates=FFF" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=Nessavs&theme=dracula&background=000&border=30A3DC&dates=FFF" />
+  </a>
+</div>
