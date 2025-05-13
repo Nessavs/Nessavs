@@ -42,8 +42,4 @@
 </div>  
 </br>
 
-<div align="center">
-  <a href="https://streak-stats.demolab.com/?user=Nessavs&theme=dracula&background=000&border=30A3DC&dates=FFF" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=Nessavs&theme=dracula&background=000&border=30A3DC&dates=FFF" />
-  </a>
-</div>
+
