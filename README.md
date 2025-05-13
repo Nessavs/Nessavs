@@ -9,7 +9,7 @@
 
 <br/>  
 
-👩‍💻 - Desenvolvedora Back-end Junior na Amo Sistemas (Amo ofertas, aplicativo de delivery e entrega)  
+👩‍💻 - Desenvolvedora Back-end Junior (Node.js)  
 🎓 - Técnica em Informática pelo Instituto Federal de Santa Catarina (IFSC)  
 📚 - Cursando a graduação de Sistemas de Informação  
 
