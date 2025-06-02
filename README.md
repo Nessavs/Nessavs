@@ -14,8 +14,8 @@
 ### 👩‍💻 Sobre mim
 
 Desenvolvedora apaixonada por tecnologia, natureza e momentos simples como um bom chimarrão 🧉 com meu coelho por perto 🐰.  
-Nos tempos livres, adoro explorar lugares novos, andar de moto com meu namorado e aproveitar o pôr do sol.  
-Atualmente focada em evoluir como **dev back-end** e construir soluções que impactam positivamente as pessoas.  
+Nos tempos livres, adoro explorar lugares novos, andar de moto e aproveitar o pôr do sol.  
+Atualmente focada em evoluir como **desenvolvedora fullstack** e construir soluções que impactam positivamente as pessoas.  
 
 ---
 
